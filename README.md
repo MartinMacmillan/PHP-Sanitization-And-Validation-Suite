@@ -1,2 +1,4 @@
 # Sanitization & Validation Suite
-Two simple PHP classes facilitating a simple API that sanitizes and validates user input, upon request. Complete with unit tests.
+Two PHP classes providing reusable helper functions that sanitize and validate user input, respectively.
+
+Complete with unit tests (install dependencies with Composer).
