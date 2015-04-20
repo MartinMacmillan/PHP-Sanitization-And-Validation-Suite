@@ -1,0 +1,14 @@
+{
+    "name": "photocorp/pixifoto-uk",
+    "description": "PixiFoto UK",
+    "authors": [
+        {
+            "name": "Martin Macmillan",
+            "email": "mmacmmillan@photocorp.co.uk"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.6.*"
+    }
+}
