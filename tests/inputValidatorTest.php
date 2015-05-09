@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__).'/../src/classes/inputValidator.php';
+require_once __DIR__.'/../src/inputValidator.php';
 
 class inputValidatorTest extends PHPUnit_Framework_TestCase
 {

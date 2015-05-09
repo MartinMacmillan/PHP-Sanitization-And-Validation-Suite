@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__).'/../src/classes/inputSanitizer.php';
+require_once __DIR__.'/../src/inputSanitizer.php';
 
 class inputSanitizerTest extends PHPUnit_Framework_TestCase
 {
